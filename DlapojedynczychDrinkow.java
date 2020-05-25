@@ -44,7 +44,7 @@ public class DlapojedynczychDrinkow {
         }
         System.out.println("Kalkulator pokazuje zawartość alkoholu we krwi po upływie czasu picia");
 
-
+            System.out.println("ciekawe czy to sie wyswietli w kodzie ? "); 
 
 
 
